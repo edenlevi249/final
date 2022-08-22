@@ -1,0 +1,301 @@
+id,age,sex,studydegree,settlementtype,cityname,EconomicStatus,FieldOfStudy,AcademicInstitution,ChooseAgainFieldOfStudy,WorkInFieldOfStudied,CreativePerson,SociablePerson,ClearRulesFrameworks,ProvidesHelpOthers,DevelopingFutureComputers,HumanPsyche,DevelopingAlgorithm,ResearchedAndDeveloped,PersonalIssues,WrittenBroadcastPress,BodyStructure,TechnologicalInnovations,TrainingAndGuidance,LogicalThinking,feedback
+1,20-25,Male,Math,City,Ashkelon,Medium,Realistic,University,Yes,No,3,3,5,4,5,5,5,4,3,2,3,3,5,5,1
+2,20-25,Female,Human Resources,City,Ashkelon,Low,Humane,College,Yes,Yes,2,3,5,4,1,3,1,2,3,1,1,2,5,3,1
+3,20-25,Male,Information System,City,Beit Shean,Medium,Realistic,College,Yes,No,5,5,5,5,5,4,5,5,5,4,4,5,2,4,1
+4,31-35,Male,Communication,City,Beit Shean,Medium,Humane,College,No,No,3,4,5,3,1,3,1,1,2,5,1,1,3,3,1
+5,20-25,Female,Education,City,Bnei Brak,Low,Humane,University,No,Yes,4,4,3,5,2,5,2,4,4,1,2,3,4,3,1
+6,31-35,Female,Sociology,Moshav,Betzet,Medium,Humane,College,Yes,Yes,4,4,3,4,1,2,1,1,4,2,2,3,2,3,1
+7,20-25,Male,Math,Moshav,Bat Hefer,Medium,Realistic,University,Yes,Yes,5,5,3,4,4,3,5,5,4,4,5,5,5,5,1
+8,20-25,Female,Information System,City,Bat Yam,Medium,Realistic,College,Yes,Yes,4,4,4,4,3,2,2,5,3,2,4,4,4,4,1
+9,26-30,Female,Chemical Engineering ,City,Bat Yam,Medium,Realistic,College,Yes,No,5,1,4,3,4,3,4,5,2,1,5,5,4,4,1
+10,26-30,Male,Chemical Engineering ,Moshav,Givat Avni,Medium,Realistic,College,Yes,Yes,5,5,4,5,5,5,5,5,5,1,5,5,5,5,1
+11,20-25,Female,Electrical Engineering,City,Givat Shmuel,Medium,Realistic,University,Yes,Yes,4,5,4,5,3,5,4,5,4,1,1,3,4,5,1
+12,20-25,Male,Electrical Engineering,Village,Dali'at el Carmel,Medium,Realistic,College,Yes,Yes,5,5,5,5,5,4,4,5,3,1,2,5,5,5,1
+13,20-25,Male,Health Systems Manager,Village,Deir al-Asad,High,Realistic,University,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1
+14,20-25,Female,Education,Moshav,Zichron Yaakov,Medium,Humane,College,Yes,Yes,4,4,5,5,3,5,2,3,4,2,5,2,4,3,1
+15,20-25,Female,Human Resources,City,Holon,High,Humane,College,No,No,4,5,5,5,1,1,1,5,1,1,1,1,5,5,1
+16,20-25,Male,Mechanical Engineering,City,Holon,Medium,Realistic,College,Yes,Yes,5,5,3,5,4,3,3,5,2,2,5,4,4,5,1
+17,20-25,Male,Economy,City,Holon,Medium,Realistic,College,Yes,Yes,5,4,4,5,4,4,3,5,2,2,4,4,3,4,1
+18,26-30,Male,Economy,City,Holon,Medium,Realistic,College,Yes,Yes,4,5,4,3,3,2,3,5,2,3,2,5,3,4,1
+19,20-25,Female,Information System,City,Haifa,Medium,Realistic,College,Yes,Yes,4,5,4,4,4,1,1,5,1,1,1,5,3,5,1
+20,26-30,Female,Human Resources ,City,Haifa,Medium,Humane,College,No,No,1,5,5,5,1,1,1,1,5,1,1,1,1,3,1
+21,20-25,Male,Low,City,Haifa,High,Humane,College,Yes,Yes,4,5,4,5,3,3,1,4,4,2,1,4,4,4,1
+22,20-25,Female,Education,City,Haifa,Medium,Humane,College,Yes,Yes,4,5,3,4,3,4,1,1,4,3,3,3,5,4,1
+23,20-25,Female,Sociology,City,Haifa,Low,Humane,College,No,Yes,3,3,4,3,1,5,1,3,5,1,4,2,5,2,1
+24,20-25,Female,Psychology,City,Haifa,Medium,Humane,University,Yes,No,2,3,3,3,3,3,1,2,4,1,1,4,3,5,1
+25,20-25,Female,Biology,City,Haifa,High,Realistic,University,Yes,No,4,4,3,5,3,4,1,3,3,1,5,4,4,5,1
+26,31-35,Male,Civill Engineering,City,Haifa,Medium,Realistic,College,Yes,Yes,5,5,4,5,4,4,2,3,5,4,4,4,4,4,1
+27,20-25,Female,Education,City,Haifa,Low,Humane,University,Yes,No,5,5,3,5,1,4,1,3,5,1,3,3,4,1,1
+28,20-25,Male,Information System,City,Haifa,Medium,Realistic,College,No,Yes,5,5,4,4,4,3,3,4,2,4,2,5,4,4,1
+29,20-25,Female,Education,City,Haifa,Medium,Humane,College,Yes,Yes,4,3,5,4,1,1,1,2,4,1,5,2,5,4,1
+30,31-35,Male,Nursing,City,Haifa,Medium,Humane,College,Yes,Yes,3,4,4,5,1,4,1,1,5,1,4,1,1,2,1
+31,20-25,Female,Psychology,City,Haifa,High,Humane,College,Yes,Yes,4,5,3,5,3,5,2,2,1,1,4,2,2,4,1
+32,20-25,Female,Communication ,City,Haifa,Medium,Humane,College,Yes,Yes,5,5,4,5,2,4,1,3,5,5,3,2,4,3,1
+33,20-25,Female,Nursing,City,Haifa,Medium,Realistic,College,Yes,Yes,4,5,3,5,3,4,1,3,5,3,5,4,5,3,1
+34,20-25,Female,Education,City,Haifa,Medium,Humane,College,Yes,Yes,2,4,4,5,1,2,2,3,4,1,1,4,5,4,1
+35,20-25,Male,Information System,City,Haifa,Low,Realistic,College,Yes,Yes,4,4,5,1,5,1,4,4,1,1,1,5,1,4,1
+36,20-25,Male,Electronic Engineering,City,Haifa,Low,Realistic,College,No,Yes,5,3,1,4,1,1,5,4,2,1,1,5,5,5,1
+37,20-25,Male,Information System,City,Haifa,Low,Realistic,University,Yes,Yes,4,4,5,3,4,2,3,4,2,1,1,5,4,5,1
+38,20-25,Male,Mechanical Engineering,City,Haifa,High,Realistic,College,Yes,Yes,4,5,5,5,3,5,4,5,5,2,5,5,5,5,1
+39,20-25,Female,Communication,City,Haifa,Medium,Humane,College,No,No,4,4,3,2,1,2,1,1,2,5,1,2,2,3,1
+40,36-40,Female,Education,City,Haifa,Low,Humane,College,Yes,Yes,4,4,4,3,1,1,1,1,3,1,1,1,5,4,1
+41,20-25,Male,Statistics,City,Haifa,Low,Realistic,University,No,No,5,3,3,5,5,5,3,5,5,2,2,5,4,4,1
+42,20-25,Female,Software Engineering,City,Haifa,Low,Realistic,College,No,No,3,5,5,4,4,2,4,4,2,1,2,4,3,4,1
+43,26-30,Female,Human Resources,City,Haifa,Medium,Humane,College,Yes,Yes,4,4,3,4,1,1,1,2,2,1,2,2,3,3,1
+44,20-25,Male,Information System,City,Haifa,High,Realistic,College,Yes,Yes,5,5,4,5,5,4,5,5,3,2,1,5,2,5,1
+45,46-50,Male,Economy,City,Haifa ,Medium,Realistic,University,Yes,Yes,4,5,5,3,3,1,3,4,3,2,1,1,3,1,1
+46,20-25,Female,Psychology,City,Haifa ,High,Humane,College,Yes,Yes,5,5,3,4,2,4,2,2,5,1,4,2,1,3,1
+47,26-30,Female,Middle East,City,Tiberias,Medium,Humane,University,Yes,Yes,4,3,4,1,1,3,1,2,3,4,1,3,2,3,1
+48,20-25,Male,Nursing,Village,Turan,Low,Humane,University,Yes,Yes,3,3,3,5,1,4,1,1,5,1,4,1,1,2,1
+49,20-25,Female,Business Administration ,City,Tirat Carmel,Medium,Realistic,College,Yes,Yes,5,5,5,5,3,5,2,1,5,1,3,2,5,5,1
+50,26-30,Male,Criminology,Kibbutz,Yifat,Medium,Humane,University,Yes,Yes,3,3,5,4,1,1,1,1,5,1,1,3,2,3,1
+51,20-25,Male,Psychology,City,Yokneam,Medium,Humane,College,Yes,Yes,4,4,3,5,1,1,1,1,5,1,3,2,3,3,1
+52,20-25,Male,Information System,City,Yokneam,Medium,Realistic,College,Yes,Yes,4,5,4,3,2,3,2,4,2,1,5,4,4,5,1
+53,20-25,Female,Industrial Engineering,City,Jerusalem,Medium,Realistic,College,Yes,No,4,5,4,5,4,3,2,3,4,2,3,4,5,4,1
+54,36-40,Male,Human Resources,City,Jerusalem,Medium,Humane,College,Yes,Yes,3,4,4,3,1,4,1,1,4,1,3,1,2,3,1
+55,31-35,Female,Social Sciences,Moshav,Tel Adashim ,High,Humane,College,Yes,Yes,4,4,3,5,1,4,1,1,4,3,3,3,2,3,1
+56,20-25,Female,Biotechnology Engineering,Village,Deir al-Asad,Medium,Realistic,College,No,Yes,4,4,3,5,3,3,3,5,2,2,4,4,4,5,1
+57,31-35,Female,Software Engineering,City,Carmiel,Low,Realistic,College,No,No,5,4,5,5,4,2,3,5,1,1,4,4,2,4,1
+58,31-35,Male,Economy,City,Carmiel,Medium,Realistic,University,No,Yes,3,4,2,5,4,3,1,4,4,1,2,5,5,4,1
+59,20-25,Male,Mechanical Engineering,City,Carmiel,Low,Realistic,College,No,Yes,4,5,3,3,4,2,2,5,1,1,1,5,3,5,1
+60,20-25,Female,Psychology,City,Carmiel,High,Humane,College,Yes,Yes,5,2,3,5,2,5,2,1,4,1,3,2,1,3,1
+61,20-25,Male,Economy,City,Carmiel,High,Realistic,College,Yes,Yes,5,5,4,5,2,2,3,3,5,4,2,2,5,5,1
+62,20-25,Male,Industrial Engineering,City,Carmiel,Medium,Realistic,College,Yes,Yes,4,5,4,5,4,5,3,5,4,1,2,5,5,5,1
+63,26-30,Male,Social Sciences,City,Carmiel,Medium,Humane,University,Yes,Yes,5,5,5,5,3,4,2,4,5,3,3,4,5,4,1
+64,20-25,Male,Software Engineering,City,Carmiel,Medium,Realistic,College,Yes,Yes,4,5,3,4,2,2,2,5,2,1,1,5,2,5,1
+65,20-25,Male,Communication,City,Carmiel,Medium,Humane,College,Yes,Yes,4,4,3,4,4,4,1,4,4,3,3,5,4,3,1
+66,26-30,Male,Electronic Engineering,City,Carmiel,Medium,Realistic,College,Yes,Yes,4,5,4,4,5,4,4,4,4,5,3,4,5,5,1
+67,20-25,Female,Sociology,City,Carmiel,Medium,Humane,University,Yes,Yes,4,3,5,4,1,5,1,1,4,2,3,1,4,3,1
+68,20-25,Male,Electrical Engineering,City,Carmiel ,High,Realistic,College,No,Yes,3,5,3,4,2,4,1,4,4,3,4,3,3,4,1
+69,20-25,Male,Economy,City,Carmiel ,Medium,Realistic,College,Yes,Yes,3,3,5,5,2,2,2,2,2,2,2,4,5,5,1
+70,20-25,Male,Psychology,Moshav,Liman,High,Humane,College,Yes,Yes,5,4,3,5,2,5,2,1,4,1,3,2,1,3,1
+71,20-25,Female,Middle East,Moshav,Migdal HaEmeq,Low,Humane,University,No,No,5,5,3,5,2,3,1,5,4,1,3,2,4,1,1
+72,20-25,Female,Information System,City,Migdal HaEmeq,Medium,Realistic,College,Yes,Yes,4,5,4,5,2,5,2,3,4,2,4,4,5,4,1
+73,26-30,Male,Mechanical Engineering,City,Migdal HaEmeq,Medium,Realistic,College,Yes,No,3,4,3,4,5,1,4,5,3,1,2,4,3,3,1
+74,20-25,Female,Industrial Engineering,City,Migdal HaEmeq,Medium,Humane,College,Yes,Yes,5,5,5,5,1,1,1,5,5,2,5,1,5,1,1
+75,20-25,Female,Economy,City,Migdal HaEmeq,Medium,Realistic,College,Yes,Yes,5,5,5,5,3,5,4,5,2,3,4,3,5,5,1
+76,26-30,Male,Economy,City,Migdal HaEmeq,Medium,Realistic,College,Yes,Yes,5,5,4,4,5,5,3,5,4,3,5,5,5,5,1
+77,20-25,Male,Social Work,City,Migdal HaEmeq,Medium,Humane,College,Yes,Yes,5,4,4,4,2,4,3,4,4,3,3,3,4,4,1
+78,20-25,Female,Industrial Engineering,City,Migdal HaEmeq,High,Realistic,College,Yes,Yes,5,5,5,5,3,3,4,3,2,1,2,5,3,5,1
+79,20-25,Female,Social Work,City,Migdal HaEmeq,Medium,Humane,College,Yes,Yes,3,5,2,4,1,3,1,2,5,1,2,2,3,3,1
+80,20-25,Female,Education,City,Migdal HaEmeq,Medium,Humane,College,No,No,4,5,5,5,3,1,1,3,5,2,3,5,5,2,1
+81,20-25,Female,Information System,City,Migdal HaEmeq,High,Realistic,College,No,Yes,1,3,4,2,1,2,3,2,4,2,3,2,5,5,1
+82,20-25,Female,Biotechnology Engineering,City,Migdal HaEmeq,Medium,Realistic,College,Yes,No,5,5,4,5,3,3,3,5,5,1,5,5,5,5,1
+83,20-25,Female,Social Sciences,City,Migdal HaEmeq,Low,Humane,University,No,Yes,3,4,4,4,3,2,2,3,3,2,2,3,4,4,1
+84,31-35,Male,Social Sciences,City,Migdal HaEmeq,Medium,Humane,University,No,No,4,5,5,2,1,1,1,1,3,2,1,1,3,3,1
+85,20-25,Male,Electronic Engineering,City,Migdal HaEmeq,High,Realistic,College,Yes,Yes,5,5,4,5,5,5,3,5,1,1,5,5,5,5,1
+86,20-25,Male,Economy,City,Migdal HaEmeq,Medium,Realistic,University,Yes,Yes,4,4,5,4,1,4,1,5,4,3,4,5,3,4,1
+87,20-25,Female,Industrial Engineering,City,Migdal HaEmeq,Medium,Realistic,College,Yes,No,5,5,5,5,1,4,2,4,5,2,5,2,5,5,1
+88,26-30,Male,Electrical Engineering,City,Migdal HaEmeq,Medium,Realistic,College,Yes,Yes,5,3,2,5,3,3,3,3,2,3,2,3,3,4,1
+89,20-25,Female,Chemical Engineering ,City,Migdal HaEmeq ,Medium,Realistic,University,Yes,Yes,3,5,5,5,3,1,3,5,5,4,5,5,5,5,1
+90,20-25,Female,Education,City,Migdal HaEmeq ,Medium,Realistic,College,Yes,Yes,5,5,3,5,5,5,4,5,5,3,4,4,4,5,1
+91,20-25,Female,Human Resources,City,Migdal HaEmeq ,Medium,Humane,College,Yes,Yes,4,5,3,4,1,2,1,4,3,1,1,3,5,4,1
+92,20-25,Female,Information System,City,Migdal HaEmeq ,Medium,Realistic,College,Yes,Yes,5,4,3,3,5,3,3,5,3,3,3,5,3,5,1
+93,31-35,Male,Electrical Engineering,Kibbutz,Megiddo,Medium,Realistic,College,No,Yes,4,3,4,3,2,4,5,4,3,2,5,5,3,4,1
+94,20-25,Female,Information System,Moshav,Tel Adashim ,Medium,Realistic,College,No,Yes,2,4,5,4,4,1,3,4,1,1,1,5,2,5,1
+95,36-40,Female,Education,Kibbutz,Maccabi,Medium,Humane,College,Yes,Yes,4,4,4,3,1,1,1,1,4,1,1,3,5,3,1
+96,31-35,Female,Biology,Kibbutz,Mishmar HaEmek,Medium,Humane,College,Yes,Yes,3,4,4,1,1,3,1,5,3,3,2,3,3,3,1
+97,20-25,Male,Sociology,Kibbutz,Mishmar HaEmek,Medium,Humane,College,Yes,Yes,4,4,4,4,1,4,1,1,3,1,3,2,3,3,1
+98,20-25,Female,Education ,Kibbutz,Mishmar HaEmek,Low,Humane,College,Yes,Yes,5,4,5,3,1,1,1,1,4,2,1,1,5,3,1
+99,20-25,Female,Information System,City,Nahariya,Medium,Realistic,College,Yes,Yes,1,3,4,3,5,1,1,5,3,1,1,4,1,4,1
+100,20-25,Female,Health Systems Manager,City,Nahariya,Medium,Realistic,College,Yes,Yes,3,3,3,4,4,3,4,4,3,3,4,2,3,2,1
+101,26-30,Male,Mechanical Engineering,City,Nahariya,Medium,Realistic,College,Yes,Yes,4,5,3,5,4,2,4,5,2,1,2,5,5,3,1
+102,26-30,Male,Electrical Engineering,City,Nahariya,Medium,Humane,College,Yes,Yes,4,4,5,5,4,5,3,5,4,3,4,5,5,3,1
+103,20-25,Female,Industrial Engineering,City,Nahariya,Medium,Realistic,College,Yes,Yes,2,5,5,1,3,2,2,2,3,5,1,3,5,5,1
+104,20-25,Male,Information System,City,Nof HaGalil,Low,Realistic,College,Yes,Yes,3,4,5,3,2,1,1,4,3,1,1,4,2,4,1
+105,26-30,Male,Information System,City,Nof HaGalil,Low,Realistic,College,No,No,5,5,4,5,5,3,4,5,5,3,3,5,5,4,1
+106,20-25,Female,Economy ,City,Nof HaGalil,Medium,Realistic,College,Yes,Yes,4,4,3,5,2,3,3,4,4,2,4,4,4,5,1
+107,26-30,Female,Business Administration,City,Nof HaGalil,Low,Humane,College,No,No,1,5,5,5,3,2,1,4,1,3,1,3,4,2,1
+108,20-25,Female,Information System,City,Nazareth,Medium,Realistic,College,Yes,Yes,5,4,5,5,5,5,5,5,5,5,1,5,5,5,1
+109,20-25,Male,Mechanical Engineering,City,Nazareth,Medium,Realistic,College,Yes,Yes,4,3,3,5,3,4,3,5,3,2,3,5,5,5,1
+110,20-25,Female,Chemical Engineering ,City,Nof HaGalil,Medium,Realistic,University,Yes,No,3,4,5,4,4,4,2,5,4,1,5,5,1,5,1
+111,20-25,Female,Human Resources,City,Nof HaGalil,Low,Humane,College,No,No,2,3,3,3,2,3,2,3,2,2,2,3,4,3,1
+112,20-25,Male,Information System ,City,Nesher,Medium,Realistic,College,Yes,Yes,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1
+113,20-25,Male,Mechanical Engineering,City,Nesher,Low,Realistic,University,No,No,3,4,3,4,4,3,2,4,4,3,4,4,4,4,1
+114,20-25,Female,Industrial Engineering,City,Nesher,Medium,Realistic,College,No,Yes,4,4,4,4,3,3,2,4,4,2,3,4,4,5,1
+115,31-35,Male,Electronic Engineering,City,Nesher,Medium,Realistic,College,Yes,No,3,2,4,3,4,1,3,4,1,1,5,4,2,4,1
+116,20-25,Female,Nursing,City,Nesher,High,Humane,College,Yes,Yes,3,4,4,5,1,4,1,1,5,1,3,3,1,3,1
+117,20-25,Female,Industrial Engineering,City, Natanya,Medium,Realistic,College,Yes,Yes,3,5,3,5,4,5,4,5,4,2,1,3,5,5,1
+118,20-25,Female,Math,City, Natanya,High,Humane,University,No,Yes,3,3,4,3,4,4,2,4,2,4,4,4,4,5,1
+119,31-35,Female,Education,City, Natanya,Medium,Humane,College,Yes,Yes,4,4,4,3,1,1,1,1,4,1,1,1,5,3,1
+120,20-25,Male,Medicine,City, Sakhnin,Medium,Realistic,University,No,Yes,3,4,4,5,3,4,3,3,4,3,5,3,3,3,1
+121,20-25,Male,Medicine,City, Sakhnin,Medium,Realistic,University,Yes,Yes,4,5,4,5,3,4,4,3,5,2,5,3,4,4,1
+122,20-25,Female,Education,City, Acre,Medium,Realistic,College,No,Yes,5,3,5,5,1,2,2,5,3,5,1,1,5,5,1
+123,26-30,Male,Mechanical Engineering,City, Acre,Medium,Realistic,College,Yes,No,4,4,4,5,5,4,3,4,4,2,4,4,3,4,1
+124,26-30,Male,Information System,City, Acre,Medium,Realistic,College,Yes,No,4,5,5,3,5,5,5,5,3,5,1,5,3,5,1
+125,31-35,Male,Software Engineering,City,Afula,High,Realistic,College,No,No,5,5,5,5,4,4,3,5,5,2,4,5,3,5,1
+126,20-25,Male,Information System,City,Afula,Medium,Realistic,College,Yes,Yes,4,5,4,5,5,1,2,5,1,1,3,5,3,4,1
+127,20-25,Male,Information System,City,Afula,Medium,Realistic,College,Yes,Yes,4,4,4,5,4,4,4,4,4,4,4,4,4,3,1
+128,20-25,Male,Mechanical Engineering,City,Afula,Medium,Realistic,University,Yes,Yes,3,5,3,5,4,3,4,5,2,1,4,5,4,5,1
+129,26-30,Female,Low,City,Afula,Medium,Humane,College,Yes,Yes,4,4,5,4,1,1,1,1,4,3,1,3,1,3,1
+130,20-25,Male,Mechanical Engineering,City,Afula,Medium,Realistic,University,Yes,Yes,4,5,4,5,3,1,5,4,2,1,4,5,3,5,1
+131,26-30,Female,Information System,City,Afula,Low,Realistic,College,Yes,Yes,2,2,4,2,2,4,2,4,2,2,4,3,1,5,1
+132,20-25,Female,Information System,City,Afula,Medium,Realistic,College,Yes,Yes,3,4,4,4,3,2,2,4,3,2,2,4,3,4,1
+133,20-25,Male,Medicine,Village,Pekiin,Medium,Realistic,University,Yes,Yes,3,3,5,5,3,4,4,3,4,1,5,5,4,5,1
+134,26-30,Female,Education,City,Pardes Hanna,High,Humane,College,Yes,Yes,4,4,4,3,1,2,1,1,2,1,1,1,5,3,1
+135,20-25,Male,Education,City,Zefat,High,Humane,College,Yes,Yes,5,5,2,5,3,5,4,5,5,5,5,5,5,5,1
+136,20-25,Female,Education ,City,Kiryat ata ,Medium,Humane,College,No,Yes,4,5,4,4,2,4,2,2,4,2,2,4,4,4,1
+137,20-25,Female,Education,City,Kiryat ata,High,Humane,College,Yes,Yes,4,5,5,4,3,3,1,2,3,2,4,3,5,4,1
+138,26-30,Female,Information System,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,4,5,4,1,5,1,4,4,1,1,1,4,1,5,1
+139,20-25,Male,Low,City,Kiryat ata,High,Humane,College,Yes,Yes,5,5,2,3,1,1,1,1,2,3,1,2,4,4,1
+140,20-25,Female,Software Engineering,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,5,5,3,4,4,2,3,4,4,3,2,3,4,5,1
+141,26-30,Male,Mechanical Engineering,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,2,5,3,2,4,1,4,5,1,1,2,5,4,5,1
+142,26-30,Male,Business Administration ,City,Kiryat ata,Medium,Humane,College,Yes,No,4,4,5,4,2,3,2,4,5,2,3,3,5,5,1
+143,26-30,Female,Information System ,City,Kiryat ata,Low,Realistic,College,Yes,Yes,2,5,5,4,5,2,1,5,1,1,2,3,1,5,1
+144,20-25,Female,Nursing,City,Kiryat ata,High,Realistic,College,Yes,Yes,4,5,5,5,1,3,1,3,5,4,5,3,3,4,1
+145,20-25,Female,Education ,City,Kiryat ata,Medium,Humane,College,Yes,Yes,3,5,3,4,1,5,1,3,5,1,1,2,5,3,1
+146,26-30,Male,Civill Engineering,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,5,5,5,5,1,1,1,1,1,1,1,3,1,3,1
+147,20-25,Female,Business Administration,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,3,5,4,5,4,4,5,3,5,4,3,3,3,3,1
+148,26-30,Male,Mechanical Engineering,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,4,4,5,4,3,3,2,3,3,2,2,3,2,5,1
+149,20-25,Female,Education,City,Kiryat ata,Medium,Humane,College,Yes,Yes,4,5,4,4,1,1,1,4,4,4,4,4,4,2,1
+150,20-25,Female,Information System,City,Kiryat ata,Low,Realistic,College,Yes,Yes,2,5,5,5,5,1,1,3,1,1,1,5,3,4,1
+151,20-25,Female,Psychology,City,Kiryat ata,High,Humane,College,Yes,Yes,5,4,4,3,2,5,2,1,4,1,3,2,1,3,1
+152,20-25,Female,Business Administration ,City,Kiryat ata,High,Realistic,College,Yes,Yes,4,4,1,4,3,4,2,3,4,1,3,2,2,3,1
+153,20-25,Female,Education,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,4,4,4,4,5,5,5,4,5,4,4,5,5,4,1
+154,26-30,Male,Economy,City,Kiryat ata,Medium,Realistic,College,Yes,No,4,5,3,5,4,4,1,4,4,1,3,5,4,4,1
+155,20-25,Female,Education,City,Kiryat ata,High,Realistic,College,Yes,Yes,5,5,2,5,1,3,1,1,5,1,1,4,5,4,1
+156,31-35,Female,Education,City,Kiryat ata,Low,Humane,College,Yes,Yes,4,4,5,3,1,1,1,1,3,1,1,2,5,3,1
+157,20-25,Male,Electrical Engineering,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,4,4,5,4,5,3,2,4,2,2,3,5,3,4,1
+158,20-25,Male,Electrical Engineering,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,4,4,4,5,5,4,3,5,3,2,2,4,4,4,1
+159,26-30,Female,Information System,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,2,4,5,4,3,2,2,4,2,1,3,2,2,4,1
+160,26-30,Female,Industrial Engineering,City,Kiryat ata,Medium,Realistic,College,No,Yes,4,5,5,5,2,1,1,4,2,2,5,5,5,5,1
+161,20-25,Female,Education,City,Kiryat ata,Medium,Humane,College,Yes,Yes,4,5,4,4,1,2,1,2,3,1,1,1,5,3,1
+162,20-25,Male,Industrial Engineering,City,Kiryat ata,Medium,Realistic,College,Yes,Yes,4,4,4,4,1,1,3,3,1,1,1,4,4,5,1
+163,26-30,Male,Information System,City,Kiryat ata ,Medium,Realistic,College,Yes,No,4,5,4,5,4,3,4,4,3,3,2,5,4,4,1
+164,20-25,Female,Human Resources,City,Kiryat ata ,Medium,Humane,College,Yes,Yes,5,5,5,5,1,1,1,1,1,1,2,3,1,4,1
+165,20-25,Female,Psychology,City,Kiryat ata ,High,Humane,College,Yes,Yes,5,4,3,5,2,5,2,1,4,1,3,2,1,3,1
+166,26-30,Male,Information System,City,Kiryat Bialik,Medium,Realistic,College,Yes,Yes,4,4,4,5,4,1,1,5,1,3,3,4,3,4,1
+167,20-25,Female,Education,City,Kiryat Bialik,Medium,Realistic,College,Yes,Yes,5,5,5,5,1,1,1,3,5,3,4,4,5,5,1
+168,20-25,Female,Economy,City,Kiryat Bialik,Medium,Realistic,College,No,No,4,4,4,5,4,4,3,4,5,3,3,3,4,4,1
+169,36-40,Male,History ,City,Kiryat Bialik,Medium,Humane,University,Yes,Yes,5,4,4,4,3,5,3,3,4,3,3,3,4,4,1
+170,26-30,Female,Education,City,Kiryat Bialik,Medium,Humane,College,Yes,Yes,4,5,4,5,2,3,1,3,5,1,4,4,5,4,1
+171,20-25,Female,History ,City,Kiryat Bialik,Low,Humane,University,No,No,1,5,2,4,1,3,1,2,5,1,2,2,4,3,1
+172,26-30,Female,Sociology ,City,Kiryat Bialik,Medium,Humane,College,No,No,5,5,3,5,5,5,1,5,1,1,5,5,5,3,1
+173,20-25,Male,Economy,City,Kiryat Bialik,Medium,Realistic,College,No,No,3,4,4,3,4,2,4,5,3,3,2,5,4,4,1
+174,26-30,Female,Education,City,Kiryat Bialik,Low,Humane,College,No,No,4,3,3,3,1,1,1,1,4,1,3,1,5,2,1
+175,20-25,Female,Education,City,Kiryat Bialik ,High,Humane,College,No,Yes,5,5,5,5,2,5,1,5,5,1,2,5,5,3,1
+176,20-25,Male,Psychology,City,Qiryat Gat,Medium,Humane,University,Yes,Yes,5,4,3,5,2,5,2,3,5,3,5,3,5,3,1
+177,20-25,Male,Information System,City,Kiryat Haim,Medium,Realistic,College,Yes,No,5,5,3,4,1,1,1,3,4,2,3,5,4,5,1
+178,20-25,Male,Information System Engineering,City,Kiryat Yam,Medium,Realistic,College,No,Yes,4,4,4,4,5,3,2,5,3,3,4,5,4,5,1
+179,26-30,Male,Education,City,Kiryat Yam,Low,Humane,College,Yes,Yes,5,4,5,4,1,2,1,1,4,1,1,3,5,3,1
+180,20-25,Male,Mechanical Engineering,City,Kiryat Yam,Medium,Realistic,College,Yes,Yes,5,5,4,5,5,5,4,5,5,3,5,5,5,5,1
+181,20-25,Female,Industrial Engineering,City,Kiryat Yam,Medium,Realistic,College,No,Yes,3,3,5,5,3,5,1,3,4,1,4,2,5,4,1
+182,20-25,Female,Psychology,City,Kiryat Motzkin,Medium,Humane,University,Yes,Yes,4,4,4,2,4,5,1,5,2,1,5,5,3,5,1
+183,31-35,Female,Education,City,Kiryat Motzkin,Low,Humane,College,Yes,Yes,4,4,4,4,1,2,1,1,4,1,2,1,5,3,1
+184,36-40,Male,Quality Engineering,City,Kiryat Motzkin,Medium,Realistic,University,Yes,Yes,5,5,5,5,5,2,2,5,2,2,2,5,5,5,1
+185,20-25,Female,Information System,City,Kiryat Motzkin,High,Realistic,College,Yes,Yes,5,3,4,4,5,5,2,5,1,1,5,5,5,5,1
+186,20-25,Female,Low,City,Kiryat Motzkin,Medium,Humane,College,Yes,Yes,3,4,5,4,1,1,1,3,4,5,2,4,4,2,1
+187,20-25,Male,Electronic Engineering ,City,Kiryat Motzkin ,Medium,Realistic,College,No,No,5,5,5,5,4,2,1,3,1,1,1,5,5,5,1
+188,20-25,Female,Education ,City,Kiryat Motzkin ,Medium,Realistic,College,Yes,Yes,4,5,3,5,3,3,1,1,5,1,3,1,5,4,1
+189,26-30,Female,Psychology,City,Kiryat Motzkin ,Medium,Humane,College,Yes,Yes,4,4,4,4,1,2,1,2,4,1,2,1,3,3,1
+190,20-25,Female,Medicine,City,Kiryat Motzkin ,Medium,Realistic,University,Yes,Yes,4,5,5,5,3,3,3,5,3,1,5,5,3,5,1
+191,31-35,Male,Electronic Engineering,City,Kiryat Motzkin ,Medium,Realistic,College,No,Yes,4,5,5,4,4,4,4,4,4,1,2,5,3,4,1
+192,20-25,Male,Industrial Engineering,City,Rishon Lezion,Medium,Realistic,College,Yes,Yes,3,5,3,4,5,2,1,5,1,1,4,4,3,5,1
+193,26-30,Female,Industrial Engineering ,Moshav,Rekhasim,Medium,Realistic,College,Yes,Yes,3,4,4,4,2,2,2,1,2,3,2,2,2,3,1
+194,26-30,Female,Social Work,City,Ramat Gan,High,Humane,University,Yes,Yes,5,3,5,5,4,5,3,5,5,1,3,5,5,5,1
+195,20-25,Male,Psychology,City,Raanana,Medium,Humane,College,Yes,Yes,1,5,4,5,1,2,1,1,4,2,1,3,1,1,1
+196,20-25,Male,Medicine,City,Shefaram,Medium,Humane,University,Yes,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1
+197,20-25,Female,Industrial Engineering,City,Shefaram,Medium,Humane,College,Yes,Yes,4,5,5,5,4,4,3,4,2,1,3,4,4,4,1
+198,20-25,Female,Business Administration,City,Tel Aviv,High,Realistic,College,Yes,Yes,3,5,1,4,1,3,1,3,4,1,3,5,5,4,1
+199,20-25,Male,Criminology,City,Tel Aviv,Medium,Humane,College,No,Yes,3,4,5,3,1,1,1,1,3,3,1,3,2,3,1
+200,26-30,Female,Medicine,Moshav,Tel Adashim ,High,Humane,University,Yes,Yes,4,5,5,5,1,3,1,5,3,1,5,3,3,3,1
+201,26-30,Male,Criminology,Moshav,Tel Adashim ,Low,Humane,College,No,No,3,4,3,5,1,1,1,3,2,1,4,2,3,4,1
+202,20-25,Female,Business Administration,City,Raanana,High,Humane,College,Yes,Yes,4,5,5,3,1,1,1,5,2,2,2,3,4,3,1
+203,26-30,Male,Education,City,Zefat,Low,Humane,College,Yes,Yes,4,4,2,4,1,2,1,4,5,2,3,3,5,4,1
+204,26-30,Female,Low,Kibbutz,Yifat,Medium,Humane,College,Yes,Yes,4,4,4,5,1,4,1,3,5,2,3,2,3,3,1
+205,20-25,Female,Sociology ,City,Ashkelon,Medium,Humane,College,No,No,5,4,3,5,1,4,1,1,4,2,3,1,4,3,1
+206,20-25,Female,Psychology,City,Sakhnin,Low,Humane,College,Yes,Yes,5,4,3,5,1,5,1,1,5,2,4,2,4,4,1
+207,20-25,Male,Information System Engineering,City,Sakhnin,Medium,Realistic,College,Yes,Yes,3,4,3,3,5,1,5,5,2,4,1,5,3,5,1
+208,26-30,Female,Medicine,Moshav,Bat Hefer,High,Humane,College,Yes,Yes,4,5,4,5,1,5,1,1,3,3,5,2,3,5,1
+209,26-30,Male,Information System,Moshav,Bat Hefer,Medium,Realistic,College,Yes,Yes,3,4,5,4,5,1,3,5,1,1,1,5,2,5,1
+210,26-30,Female,Biology,Moshav,Betzet,Medium,Humane,College,Yes,Yes,4,4,4,1,1,3,1,5,3,4,2,4,3,4,1
+211,26-30,Female,Biology,Village,Bnei Brak,Low,Humane,College,Yes,No,3,3,3,3,1,3,1,4,3,1,3,1,3,3,1
+212,26-30,Male,Nursing,Village,Bnei Brak,Low,Humane,College,Yes,Yes,4,4,4,5,2,4,1,1,4,1,3,3,1,4,1
+213,20-25,Female,Information System Engineering,Village,Dali'at el Carmel,Medium,Realistic,University,Yes,Yes,3,4,4,2,5,1,5,5,1,1,2,5,3,5,1
+214,26-30,Male,Social Work,Moshav,Zichron Yaakov,High,Humane,College,Yes,Yes,5,4,4,4,2,4,3,4,4,3,3,3,4,4,1
+215,26-30,Female,Human Resources,Village,Turan,Medium,Humane,College,No,No,4,3,4,3,1,3,2,2,1,3,2,2,4,3,1
+216,26-30,Female,Education,City,Tiberias,Low,Humane,College,Yes,Yes,5,4,4,2,1,1,1,1,4,2,1,2,5,3,1
+217,26-30,Male,Economy,City,Rishon Lezion,Medium,Realistic,University,Yes,Yes,4,4,4,3,3,1,3,4,3,2,1,1,3,1,1
+218,26-30,Male,Criminology,City,Qiryat Gat,Medium,Humane,University,Yes,Yes,3,4,5,4,1,1,1,1,5,1,1,3,2,3,1
+219,20-25,Female,Social Work,Village,Pekiin,Medium,Humane,College,Yes,Yes,4,5,4,5,1,4,2,4,4,2,3,2,4,3,1
+220,20-25,Female,Business Administration ,City,Jerusalem,Medium,Realistic,College,Yes,Yes,3,3,5,2,1,1,1,1,2,1,1,2,3,3,1
+221,26-30,Female,Medicine,Moshav,Zichron Yaakov,High,Humane,College,Yes,Yes,5,5,4,4,1,3,1,4,2,1,5,3,2,4,1
+222,26-30,Female,Social Work,City,Qiryat Gat,Medium,Humane,College,Yes,Yes,3,4,3,4,2,5,2,5,4,3,2,3,5,4,1
+223,26-30,Female,Nursing,City,Rishon Lezion,Medium,Humane,College,Yes,Yes,4,4,4,5,1,4,1,4,2,1,5,2,2,4,1
+224,26-30,Male,Software Engineering,City,Jerusalem,Medium,Realistic,College,Yes,Yes,4,4,3,4,4,2,3,4,5,3,2,3,4,4,1
+225,20-25,Male,Nursing,Moshav,Liman,Medium,Humane,College,Yes,Yes,3,3,5,5,2,3,2,5,1,2,4,3,4,5,1
+226,20-25,Male,Economy,Kibbutz,Maccabi,Medium,Realistic,College,Yes,Yes,3,5,5,2,1,1,1,2,1,1,1,3,2,5,1
+227,20-25,Female,History ,Kibbutz,Maccabi,Medium,Humane,University,Yes,No,1,3,2,4,1,3,2,2,4,1,2,2,4,4,1
+228,20-25,Female,Low,Moshav,Zichron Yaakov,Medium,Humane,College,Yes,Yes,4,5,5,4,1,1,1,1,4,3,2,3,2,3,1
+229,26-30,Female,Industrial Engineering,City,Givat Shmuel,Medium,Realistic,College,Yes,No,5,5,4,5,1,4,2,5,5,4,2,5,4,4,1
+230,26-30,Male,Human Resources,Kibbutz,Megiddo,Medium,Humane,College,Yes,Yes,5,4,3,5,1,2,1,4,3,1,2,3,5,5,1
+231,20-25,Female,Education,Kibbutz,Megiddo,Medium,Humane,College,Yes,Yes,3,4,4,3,1,2,1,1,4,2,2,3,5,3,1
+232,20-25,Female,Math,Moshav,Givat Avni,Medium,Realistic,College,Yes,Yes,4,4,3,4,4,3,5,5,4,5,5,5,4,5,1
+233,20-25,Male,Human Resources,City,Pardes Hanna,Medium,Humane,College,Yes,Yes,4,3,5,4,1,3,1,2,3,1,2,2,5,4,1
+234,20-25,Male,Nursing,City,Ramat Gan,Medium,Humane,College,Yes,Yes,3,4,4,5,2,4,1,5,3,2,4,4,5,3,1
+235,20-25,Female,Economy,City,Tiberias,Low,Realistic,University,Yes,Yes,4,4,4,2,1,2,1,2,1,1,1,3,3,5,1
+236,26-30,Female,Criminology,City,Pardes Hanna,Medium,Humane,College,No,Yes,5,5,5,3,1,1,1,1,3,3,1,3,3,4,1
+237,26-30,Male,Human Resources,Moshav,Liman,Medium,Humane,College,Yes,Yes,3,5,5,2,1,2,1,1,1,2,2,3,4,5,1
+238,26-30,Male,Information System,Moshav,Givat Avni,Low,Realistic,College,Yes,Yes,5,4,4,5,5,4,5,5,5,4,5,5,2,5,1
+239,20-25,Male,Communication,City,Tirat Carmel,Low,Humane,College,Yes,Yes,4,4,4,3,1,3,1,1,2,5,1,1,3,2,1
+240,20-25,Male,Education,City,Pardes Hanna,Medium,Humane,College,Yes,Yes,4,4,4,3,1,3,1,1,4,2,2,3,4,4,1
+241,20-25,Male,Business Administration ,City,Ramat Gan,Medium,Realistic,College,Yes,Yes,3,5,4,2,2,1,1,2,3,2,2,3,3,4,1
+242,20-25,Female,Industrial Engineering,Moshav,Rekhasim,Medium,Realistic,College,Yes,Yes,5,5,4,4,2,4,2,5,5,1,5,2,5,5,1
+243,31-35,Male,Human Resources,Moshav,Rekhasim,Medium,Humane,College,No,Yes,4,4,4,3,2,1,1,2,2,1,3,2,3,4,1
+244,20-25,Male,Sociology,City,Nazareth,Low,Humane,College,Yes,Yes,3,5,3,4,2,2,1,1,5,2,2,3,2,4,1
+245,20-25,Female,Quality Engineering,Village,Pekiin,Medium,Realistic,University,Yes,Yes,4,4,5,4,5,2,1,5,2,1,1,5,5,5,1
+246,31-35,Male,Low,City,Raanana,Low,Humane,College,Yes,Yes,4,4,4,5,3,3,1,5,4,2,1,4,5,5,1
+247,20-25,Female,Low,City,Tirat Carmel,Medium,Humane,College,Yes,Yes,5,5,4,5,2,3,1,4,4,1,1,5,4,4,1
+248,20-25,Female,Statistics,Kibbutz,Yifat,Medium,Realistic,University,Yes,Yes,4,3,3,4,5,5,3,4,5,1,2,5,4,5,1
+249,20-25,Female,Social Sciences,City,Zefat,Medium,Humane,College,Yes,Yes,4,5,5,4,1,4,1,1,5,3,3,3,1,4,1
+250,31-35,Female,History ,City, Sakhnin,Medium,Humane,University,No,No,4,5,4,4,3,5,3,4,3,4,2,3,4,3,1
+251,31-35,Female,Civill Engineering,City,Bat Yam,Medium,Realistic,College,Yes,Yes,5,5,5,4,4,4,1,3,4,4,4,5,5,5,1
+252,31-35,Female,Education,City,Beit Shean,Medium,Humane,College,Yes,Yes,5,4,3,5,2,4,2,4,5,2,2,3,4,2,1
+253,31-35,Female,Criminology,Moshav,Betzet,Medium,Humane,University,Yes,Yes,4,4,5,4,1,1,1,1,5,1,1,3,2,3,1
+254,31-35,Female,Civill Engineering,City,Shefaram,Medium,Realistic,College,Yes,Yes,4,4,4,4,4,4,2,3,5,4,4,4,4,4,1
+255,20-25,Female,Information System,City,Nazareth,Medium,Realistic,College,Yes,Yes,4,4,5,5,5,4,5,4,4,4,4,5,3,4,1
+256,20-25,Female,Medicine,Kibbutz,Yifat,High,Realistic,University,Yes,Yes,5,5,4,5,3,4,2,3,4,2,5,5,5,5,1
+257,20-25,Male,Criminology,City,Tirat Carmel,Low,Realistic,College,Yes,Yes,3,5,5,4,1,2,2,2,5,1,1,3,2,4,1
+258,20-25,Male,Business Administration ,City,Bnei Brak,Low,Realistic,College,Yes,Yes,4,4,5,5,3,5,3,1,4,1,3,2,4,5,1
+259,20-25,Male,Biology,Village,Deir al-Asad,Medium,Realistic,University,Yes,No,4,5,3,5,3,4,1,3,4,1,4,4,4,4,1
+260,20-25,Female,Medicine,City,Kiryat Haim,Medium,Realistic,University,Yes,Yes,3,3,4,5,3,3,3,3,4,3,4,3,3,4,1
+261,20-25,Male,Criminology,City,Kiryat Haim,Low,Realistic,College,Yes,Yes,4,4,4,4,1,1,1,1,4,1,1,2,2,3,1
+262,20-25,Male,Information System,,Kiryat Haim,Medium,Realistic,College,Yes,Yes,5,5,5,5,5,4,5,5,5,4,4,5,2,4,1
+263,31-35,Male,Social Sciences,City,Bnei Brak,Low,Humane,College,Yes,Yes,3,4,3,5,1,4,1,2,4,3,3,3,1,4,1
+264,20-25,Female,Math,City,Sakhnin,Low,Realistic,University,Yes,No,3,3,4,4,5,5,5,4,3,2,3,3,5,5,1
+265,20-25,Female,Biotechnology Engineering,Village,Turan,Medium,Realistic,College,No,Yes,3,3,3,5,4,4,4,5,2,2,4,5,5,5,1
+266,31-35,Male,Statistics,City,Tel Aviv,Medium,Realistic,College,No,No,3,4,5,2,3,1,1,3,1,1,2,3,2,4,1
+267,20-25,Male,Health Systems Manager,City,Shefaram,Low,Realistic,University,Yes,Yes,4,4,5,5,5,5,5,5,5,3,5,5,4,5,1
+268,31-35,Male,Nursing,City,Yokneam,Medium,Realistic,College,Yes,Yes,3,3,4,5,1,4,1,1,4,1,4,1,1,2,1
+269,31-35,Female,Business Administration ,City,Bat Yam,Medium,Realistic,College,Yes,Yes,5,5,5,4,2,4,1,1,5,1,3,2,5,5,1
+270,20-25,Male,Information System,City,Beit Shean,Medium,Realistic,College,Yes,No,3,4,4,4,4,5,4,5,5,4,4,5,3,4,1
+271,31-35,Male,Sociology,Village,Pekiin,Medium,Humane,College,Yes,Yes,4,3,3,4,1,2,1,1,3,2,2,3,2,3,1
+272,31-35,Female,Nursing,Village,Turan,Medium,Humane,College,Yes,Yes,3,5,5,5,2,4,2,2,5,1,4,1,1,3,1
+273,31-35,Female,Education,City,Yokneam,Medium,Humane,College,Yes,Yes,5,4,3,4,2,4,2,5,5,1,2,4,4,3,1
+274,31-35,Male,Biotechnology Engineering,City, Sakhnin,Low,Realistic,University,Yes,Yes,4,4,4,5,3,4,4,5,2,2,4,3,5,5,1
+275,20-25,Male,Civill Engineering,Moshav,Betzet,Medium,Realistic,College,Yes,Yes,5,5,5,5,4,4,1,2,5,4,4,4,4,4,1
+276,20-25,Male,Low,Village,Dali'at el Carmel,Medium,Humane,College,Yes,Yes,4,5,4,4,3,3,1,4,5,1,2,5,4,3,1
+277,20-25,Female,Quality Engineering,City,Givat Shmuel,Medium,Realistic,University,Yes,Yes,5,5,4,5,4,2,2,4,2,2,2,5,4,4,1
+278,20-25,Female,Health Systems Manager,,Kiryat Haim,Medium,Realistic,University,Yes,Yes,4,4,4,5,4,4,3,4,4,1,4,3,3,5,1
+279,20-25,Male,Statistics,City,Raanana,Medium,Realistic,College,No,Yes,4,4,4,2,2,1,1,2,2,1,1,3,3,5,1
+280,20-25,Male,History ,City,Zefat,Medium,Humane,College,Yes,Yes,3,4,4,2,2,2,2,3,2,4,2,3,4,4,1
+281,31-35,Female,Biotechnology Engineering,Moshav,Bat Hefer,Medium,Humane,College,Yes,Yes,4,5,3,5,2,2,2,5,3,2,4,4,4,5,1
+282,31-35,Female,Health Systems Manager,City,Bnei Brak,Medium,Realistic,College,No,Yes,4,4,4,4,4,4,4,4,5,4,5,3,3,4,1
+283,20-25,Female,Quality Engineering,Village,Dali'at el Carmel,Low,Realistic,University,Yes,Yes,4,4,4,4,4,2,2,5,1,1,1,5,5,5,1
+284,20-25,Female,History ,City,Givat Shmuel,Medium,Humane,College,Yes,Yes,5,5,4,4,4,2,2,4,1,1,2,5,4,4,1
+285,20-25,Female,Math,City,Sakhnin,Low,Realistic,University,Yes,Yes,4,4,4,4,5,5,5,4,3,2,3,2,5,5,1
+286,20-25,Male,Education,Moshav,Bat Hefer,Medium,Humane,College,Yes,Yes,5,5,3,5,3,5,2,4,4,2,2,3,4,2,1
+287,20-25,Female,Criminology,Village,Dali'at el Carmel,Low,Realistic,College,Yes,Yes,5,5,3,3,1,2,2,2,4,2,2,2,2,4,1
+288,20-25,Female,Nursing,City,Tel Aviv,Medium,Humane,College,Yes,Yes,3,3,4,5,1,4,2,2,4,2,3,2,3,2,1
+289,31-35,Male,Education,Village,Deir al-Asad,Low,Humane,College,Yes,Yes,5,5,3,5,1,4,2,5,5,1,2,3,4,2,1
+290,31-35,Female,Education,Village,Pekiin,Medium,Humane,College,Yes,Yes,3,3,3,4,2,5,1,5,4,2,2,4,4,3,1
+291,31-35,Male,Nursing,City,Haifa,High,Humane,College,Yes,Yes,5,3,4,5,1,4,1,1,5,1,4,1,1,2,1
+292,20-25,Female,Psychology,City,Pekiin,High,Humane,College,Yes,Yes,4,4,4,4,3,5,2,2,1,1,4,2,2,4,1
+293,20-25,Female,Communication ,City,Jerusalem,Medium,Humane,College,Yes,Yes,4,3,4,5,2,4,1,3,5,5,3,2,4,3,1
+294,20-25,Female,Nursing,City,Shefaram,Medium,Realistic,College,Yes,Yes,4,5,4,5,3,4,1,3,5,3,5,4,5,3,1
+295,20-25,Female,Education,City,Ashkelon,Medium,Humane,College,Yes,Yes,5,5,5,5,1,2,2,3,4,1,1,4,5,3,1
+296,20-25,Male,Information System,City,Haifa,Low,Realistic,College,Yes,Yes,4,4,5,1,5,1,4,4,1,1,1,5,1,4,1
+297,20-25,Male,Electronic Engineering,City,Haifa,Low,Realistic,College,No,Yes,5,4,1,4,1,1,5,4,2,1,1,5,5,5,1
+298,20-25,Male,Information System,City,Yokneam,Low,Realistic,University,Yes,Yes,4,4,3,3,4,2,3,4,2,1,1,5,4,5,1
+299,20-25,Male,Mechanical Engineering,City,Haifa,High,Realistic,College,Yes,Yes,4,5,5,5,3,5,4,5,5,2,5,5,5,5,1
+300,20-25,Female,Communication,City,Bat Yam,Medium,Humane,College,No,No,5,5,3,2,1,2,1,1,2,5,1,2,2,3,1

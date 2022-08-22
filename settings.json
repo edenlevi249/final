@@ -1,0 +1,53 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "FinalProject MySQL connection",
+            "database": "FinalProjectDB",
+            "username": "sqluser"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "FinalProject MySQL connection",
+            "database": "FinalProjectDB",
+            "username": "sqluser"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "ProjectDB",
+            "password": "EDENRONI",
+            "username": "EDENRONI",
+            "name": "FinalProjectDB"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Connection",
+            "database": "finalprojectdb",
+            "username": "postgres"
+        }
+    ]
+}
